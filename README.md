@@ -4,4 +4,5 @@
 
 ## List of apps
 1. [Radian](https://github.com/randy3k/radian)
+2. [Vast.ai CLI](https://github.com/vast-ai/vast-python)
 
